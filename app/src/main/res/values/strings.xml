@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Flashcards</string>
+    <string name="question_compiler">This program converts source code to an executable</string>
+    <string name="answer_compiler">Compiler</string>
+    <string name="question_os">This software manages the hardware and provides services to applications</string>
+    <string name="answer_os">Operating system</string>
+    <string name="question_rdbms">What does RDBMS stand for?</string>
+    <string name="answer_rdbms">Relational database management syste</string>
+    <string name="question_https">What does HTTPS stand for?</string>
+    <string name="answer_https">Hyper Text Transfer Protocol</string>
+    <string name="show_answer_button_text">Show Answer</string>
+    <string name="mark_correct_button_text">Mark Complete</string>
+    <string name="random_button_text">Random (%d)</string>
+    <string name="reset_button_text">Reset</string>
+    <string name="cards_finished_text">Cards Finished! You\'re Ready!</string>
+    <string name="log_marker">Log Marker</string>
+    <string name="newcard_button_text">New Card</string>
+    <string name="new_card_header">Add New Card</string>
+    <string name="question_label_text">Question</string>
+    <string name="answer_label_text">Answer</string>
+    <string name="question_hint_text">Enter the question...</string>
+    <string name="answer_hint_text">Enter answer...</string>
+    <string name="save_button">Save Card</string>
+    <string name="enter_qa_error">Enter a question and answer before saving</string>
+</resources>
